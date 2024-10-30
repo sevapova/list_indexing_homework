@@ -6,4 +6,5 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+l=['sevnch','ruxshona','xazinabonu','sevara']
+print( l[-1])

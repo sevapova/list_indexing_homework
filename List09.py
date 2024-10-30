@@ -6,4 +6,8 @@ def main(list1):
     Returns:
         bool: return answer
     """
-    return
+
+l=[1,1,1,1,1,1]
+k=[4,5,7,8,5,2]
+arr=l==k
+print (arr)

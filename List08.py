@@ -6,4 +6,7 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+list=[1,'a','b','sevara','guli']
+list[0]=True
+list[4]=False
+print (list)

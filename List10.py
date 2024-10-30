@@ -6,4 +6,7 @@ def main(list_num):
     Returns:
         int: return answer
     """
-    return
+l=[9]
+k=[5]
+arr=k=l
+print (arr)
